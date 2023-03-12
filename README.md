@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="http://127.0.0.1:5500/404-not-found-master/new.html">
       Solution
     </a>
     <span> | </span>
