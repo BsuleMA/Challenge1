@@ -30,7 +30,7 @@
   - [Buit with](#built-with)
 - [Features](#features)
 - [Contact](#contact)
--
+
 <!-- OVERVIEW -->
 
 ## Overview
@@ -44,8 +44,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HMTL]
-- [CSS]
+- HMTL5
+- CSS3
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
