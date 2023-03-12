@@ -27,10 +27,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Buit with VS Code Using HTML and CSS](#built-with)
-- [The webpage is a responsive webpage!](#features)
-- [Contact: Twitter: @bsulemikail 
-            Email: mikailsule1@gmail.com](#contact)
+  - [Buit with](#built-with)
+- [Features](#features)
+- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
