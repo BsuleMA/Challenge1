@@ -1,0 +1,68 @@
+
+        @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400&family=Nunito:wght@200;300;400;500;600&family=Quicksand&family=Sono:wght@300&display=swap');
+
+
+@media (min-width: 768px){
+    .container {
+        display: flex;
+    }
+
+    img{
+        height: 35rem;
+        width: 40rem;
+    }
+
+    .center h1{
+        font-size: 5rem;
+        color: #2F4F4F;
+    }
+
+    .center p{
+        font-size: 20px;
+    }
+
+    .button-container {
+        margin-top: auto;
+    }
+
+    button{
+        height: 50px;
+        background-color: #696969;
+        color: white;
+    }
+}
+
+@media (max-width: 768px){
+    .container {
+        flex-direction: column;
+    }
+
+    img{
+        height: auto;
+        width: 100%;
+    }
+
+    .center h1{
+        font-size: 3rem;
+    }
+
+    .center p{
+        font-size: 16px;
+    }
+    .button-container {
+        margin-top: auto;
+    }
+
+    button{
+        height: 50px;
+        background-color: #696969;
+        color: white;
+    }
+
+}
+        
+        body{
+            font-family: 'Sono', sans-serif;
+        }
+
+
